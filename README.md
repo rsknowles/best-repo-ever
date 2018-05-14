@@ -2,4 +2,5 @@
 
 This is a line of text.git
 
-I am changing test on line 5.
+This is a change to lin3 5 in the second branch.
+I moved this from line 5 to 6.
